@@ -1,35 +1,35 @@
 Below mentioned are the Parameter which were Created in the Library Management System:
 
 *Members
- Add Member
+ 1)Add Member
 
 *Books
-Add New Book
-Import Book From API (Frappe API: https://frappe.io/api/method/frappe-library?)
+1)Add New Book
+2)Import Book From API (Frappe API: https://frappe.io/api/method/frappe-library?)
 
 *Reports
-Most Popular Books
-Highest Paying Customers
+1)Most Popular Books
+2)Highest Paying Customers
 
 *Transaction
-Issue Book to users online.
+1)Issue Book to users online.
 
 The use cases:
 
-Perform general CRUD operations on Books and Members
-Issue a book to a member
-Issue a book return from a member
-Search for a book by name and author
-Charge a rent fee on book returns
-Make sure a member’s outstanding debt is not more than Rs.500
+1)Perform general CRUD operations on Books and Members
+2)Issue a book to a member
+3)Issue a book return from a member
+4)Search for a book by name and author
+5)Charge a rent fee on book returns
+6)Make sure a member’s outstanding debt is not more than Rs.500
 
-Technology:
+* Technology:
 
-Python (For Backend)
-HTML   (For Frontend)
-MySQLdb (For Database) 
-Flask (python framework)
-XAMPP Server 
+1)Python (For Backend)
+2)HTML   (For Frontend)
+3)MySQL (For Database) 
+4)Flask (python framework)
+5) XAMPP Server 
 
 
 
